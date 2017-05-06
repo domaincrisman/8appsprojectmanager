@@ -15,7 +15,7 @@
  */
 
 $light: rgba(100, 150, 250, .75);
- $dark: #eeefef;
+$dark: #eeefef;
 
 * {
 	box-sizing: border-box;
@@ -27,7 +27,7 @@ html {
 body {
  	height: 100%;
   background: #eeeeff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Lato', serif;
 }
 
 .clearfix:before,
